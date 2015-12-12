@@ -417,4 +417,8 @@ java.lang.NullPointerException
 2011-9-9 16:06:19 org.apache.catalina.core.StandardService stop
 信息: Stopping service Catalina
 2011-9-9 16:06:19 org.apache.coyote.http11.Http11Protocol destroy
+<<<<<<< HEAD
 信息: Stopping Coyote HTTP/1.1 on http-808cesi0
+=======
+信息: Stopping Coyote HTTP/1.1 on http-8080hha
+>>>>>>> 1a26646bafb50b87d40b7d54bca50b47160fcab0
